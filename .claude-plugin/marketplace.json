@@ -1,0 +1,9 @@
+{
+  "name": "sys-public",
+  "description": "Claude plugins from Systemize Your Success, free for anyone to use.",
+  "owner": {
+    "name": "Systemize Your Success",
+    "url": "https://github.com/sysacademy"
+  },
+  "plugins": []
+}
